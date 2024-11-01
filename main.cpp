@@ -11,6 +11,8 @@
 #include <sstream>
 #include <chrono>
 
+//Teste git 
+
 using Clock=std::chrono::high_resolution_clock;
 
 double event(double k, double a=16, double b=0.01){
